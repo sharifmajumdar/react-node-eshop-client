@@ -1,0 +1,33 @@
+[{
+    "key": 1001,
+    "title": "One Time Pass",
+    "type":"This is one time pass which means you are not allowed for multiple uses.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eligendi repellat voluptates eveniet, nam inventore deserunt culpa iste rem. Quisquam commodi nobis accusantium autem, itaque eveniet saepe nisi non inventore.",
+    "area": "Joensuu",
+    "duration": "1 time",
+    "price": 5
+  }, {
+    "key": 1002,
+    "title": "Daily Pass",
+    "type":"This is daily basis pass which means you are allowed for multiple uses.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eligendi repellat voluptates eveniet, nam inventore deserunt culpa iste rem. Quisquam commodi nobis accusantium autem, itaque eveniet saepe nisi non inventore.",
+    "area": "Joensuu",
+    "duration": "1 day",
+    "price": 15
+  }, {
+    "key": 1003,
+    "title": "Monthly Pass",
+    "type":"This is monthly pass which means you are allowed for one month uses.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eligendi repellat voluptates eveniet, nam inventore deserunt culpa iste rem. Quisquam commodi nobis accusantium autem, itaque eveniet saepe nisi non inventore.",
+    "area": "Joensuu",
+    "duration": "30 days",
+    "price": 50
+  }, {
+    "key": 1004,
+    "title": "Annual Pass",
+    "type":"This is yearly basis pass which means you are allowed for one year uses.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eligendi repellat voluptates eveniet, nam inventore deserunt culpa iste rem. Quisquam commodi nobis accusantium autem, itaque eveniet saepe nisi non inventore.",
+    "area": "Joensuu",
+    "duration": "365 days",
+    "price": 500
+  }]
